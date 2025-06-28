@@ -1,0 +1,24 @@
+name: news_app
+description: A new Flutter project.
+publish_to: 'none' # Prevents accidental publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  dio: ^5.4.1
+  google_fonts: ^6.1.0
+  provider: ^6.1.1
+  url_launcher: ^6.2.5  # ✅ مهم
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/             # ✅ تأكد أن الصور موجودة داخل هذا المجلد
