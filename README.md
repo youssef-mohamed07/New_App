@@ -19,9 +19,9 @@ A beautiful and responsive Flutter application that keeps you updated with the l
 
 ## 📸 Screenshots
 
-| Home Screen | Categories | Article Detail |
-|-------------|------------|----------------|
-| ![home](assets/screenshots/home.png) | ![categories](assets/screenshots/categories.png) | ![detail](assets/screenshots/detail.png) |
+| Home Screen           | Categories                      | Article Detail          |
+|-----------------------|---------------------------------|-------------------------|
+| ![home](assets/1.png) | ![categories](2/categories.png) | ![detail](assets/3.png) |
 
 > *(Make sure you place actual screenshots in `assets/screenshots/` folder)*
 
